@@ -1,0 +1,65 @@
+Create a vibrant, inviting landing page for a biryani brand called "Biryani Bong". The page should reflect the brand’s essence: traditional Awadhi flavors, Bengali soul, and a playful personality.
+
+Brand Tagline:
+"Essence of Awadh Since 1856"
+
+Use this color palette:
+Darker orange: #bb3b07
+
+Dark yellow: #ff9800
+
+Light yellow (background/accent): #fdf0e2
+
+Upload and use the attached images:
+Circular lid image (as featured logo or callout)
+
+Sleeve design (as a hero banner or "About Us" visual section)
+
+Sections to Include:
+1. Hero Section
+Logo (from the circular image)
+
+Tagline: Essence of Awadh Since 1856
+
+Call-to-action buttons: “Order on Swiggy”, “Order on Zomato”
+
+"Scan & Win" area with QR code from the packaging
+
+2. About Section – Uncle Bong’s Story
+Highlight the character Uncle Bong:
+“A Family Man. Foodie and Flavourist. Spent 12 years in Lucknow as Kitchen Manager at a Shahi restaurant — but always in Kolkata by heart. Founder of Biryani Bong, a quick-service biryani outlet. Egg stays. Aloo forever.”
+
+Include cartoon image of Uncle Bong holding biryani
+
+3. Trivia Section – "Uncle Bong Asks..."
+Show the trivia quote: “Where did the word ‘Biryani’ come from?”
+
+Include the “Scan | Guess | Win” design and call-to-action
+
+4. Menu Section
+Use stock images of biryani dishes or placeholders: Awadhi Biryani, Egg Biryani, Chicken Biryani, Aloo Biryani
+
+CTA buttons: "View Full Menu", "Order Now"
+
+5. Location & Contact
+Address: Old Jessore Road, Duttala, Near Kolkata Airport
+
+Phone: +91 907-393-3939
+
+Website: biryanibong.com
+
+6. Social Media & Hashtags
+Show icons for Instagram, Facebook, WhatsApp
+
+Handle: @unclebongqlc, @biryanibong.ofc
+
+Hashtags: #unclebong #biryanibong #kolkatabiryani
+
+Design Notes:
+Use a mix of bold vintage typography and fun cartoon illustrations.
+
+Layout should be mobile-first, fast-loading, and visually rich.
+
+Emphasize the earthy, flavorful aesthetic with the given color palette.
+
+Bring attention to “Made Fresh”, “Order Now”, and “Scan to Win” sections.
